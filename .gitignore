@@ -1,0 +1,6 @@
+*.o
+*.a
+*.map
+
+
+build_ipc_ts/
